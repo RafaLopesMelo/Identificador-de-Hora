@@ -2,13 +2,13 @@
 
 Front-End básico que recebe horário do próprio sistema e se caracteriza de acordo com o período do dia.
 
-Tecnologias usadas:
+## Tecnologias usadas:
 
 - CSS3
 - HTML5
 - JavaScript
 
-Aprimoramentos pessoais:
+## Aprimoramentos pessoais:
 
 - Melhor sintaxe JavaScript em relação a horário no sistema
 - Melhor organização
