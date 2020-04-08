@@ -1,6 +1,13 @@
-# Identificador-de-Hora
+# Identificador de Hora
 
-Front-End básico que recebe horário do próprio sistema e se caracteriza de acordo com o período do dia.
+Aplicação que possui apenas front-end, construída com HTML, CSS e JavaScript. Um dos primeiros projetos feitos por mim, ele é capaz de identificar a hora do seu dispositivo e alterar o estilo do site com base nesta informação.
+
+## Começando
+
+Para executar ou editar o projeto, basta fazer download dos arquivos e executar o HTML no browser. Utilize os seguintes comandos para download:
+
+$ cd 'Diretório de sua preferência' <br>
+$ git clone https://github.com/RafaLopesMelo/Identificador-de-Hora
 
 ## Tecnologias usadas:
 
@@ -14,6 +21,8 @@ Front-End básico que recebe horário do próprio sistema e se caracteriza de ac
 - Melhor organização
 - Maior vocabulário CSS
 - Maior organização no HTML
+
+<br><br>
 
 Autor: Rafael Lopes de Melo <br>
 Contato: rafaelmelo.programmer@gmail.com
